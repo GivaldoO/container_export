@@ -1,0 +1,1 @@
+Estou testando uma aplicação de exposição de folder do docker. Se você estiver lendo é porque funcionou!
